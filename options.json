@@ -1,0 +1,9 @@
+[
+  {
+    "name":"directory",
+    "short":"d",
+    "type":"string",
+    "description":"Specify the directory that you want to publish on this server",
+    "example":"'opm --directory ./example or opm -o ./example'"
+  }
+]
